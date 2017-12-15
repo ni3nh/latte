@@ -1,5 +1,3 @@
-﻿
-
 December 15, 2017
 
 This Copyright notice applies to the repository at https://github.com/nicolasdevops/.

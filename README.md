@@ -1,3 +1,17 @@
+What the project does.
+
+Why the project is useful.
+
+How users can get started with the project.
+
+Where users can get help with your project.
+
+Who maintains and contributes to the project.
+
+
+******
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nicolasdevops/latte/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

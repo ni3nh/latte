@@ -52,7 +52,7 @@ import org.jdesktop.swingx.JXImagePanel;
 public class AbsoluteLayoutDemo { 		//USAGE AS MODULE WOULD INCLUDE INPUT VARIABLES n, unitength, panellength, panelmargin, windowsize?
 	
 	static BufferedImage img;
-	static String intake = "targetstring"; // Input has to be in phonetic alphabet. Previous searches: "krestianin obʃina"
+	static String intake = "targetstring"; //
 	static String disemvowelled = intake.replaceAll("[aeiouaiyɨɪɩʏeœɜəɛøæɶɑʌoʊɔɤuοοiɛöéèàêâô  ]", ""); //should j and w be filtered off?
     static int n = disemvowelled.length();
     static int scrollpanewidth = 1200;  //1300
